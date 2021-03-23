@@ -1,6 +1,6 @@
 #=============Impy bot===================
 
-Token = "ODIyMDYyNTU2MzY0NjY4OTI4.YFMzag.na1AJ_u1Mp365NSC8eBsdk4jSsg"
+Token = ""
 
 Introduction = """
 
