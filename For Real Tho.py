@@ -5,7 +5,7 @@ import question
 import thanks
 import vote
 import basics
-from Impy_Info import Token
+from Idfy_t import Token
 
 client = discord.Client()
 
