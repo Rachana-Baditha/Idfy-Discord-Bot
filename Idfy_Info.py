@@ -1,7 +1,5 @@
 #=============Impy bot===================
 
-Token = ""
-
 Introduction = """
 
 Hi, I'm IDFY! 👋
